@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on improving and applying my Python learning through personal projects
 - 🌱 I’m currently learning querying APIs and web development with Python
 - 🎸 When I'm not coding, I enjoy writing and playing music, riding motorcycles, and tinkering with guitar related gadgets
-- 📫 How to reach me: m.tingey@hotmail
 - ⚡ Fun fact: I have been struck by lightning!
 
 ## Languages and Tools
