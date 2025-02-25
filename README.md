@@ -16,9 +16,7 @@ Software Development Life Cycle (SDLC), Product Development Life Cycle (PDLC), S
 DevOps Methodologies, SQL Server, SSMS, SSDT, Stored Procedures, Dynamic SQL, git, Version Control, ETL, ELT,
 Data Modeling, Data Warehousing, Standardized Data Assets, Data Migration, Data Governance, Data Quality
 Assurance, Data Visualization, QlikView, Continuous Integration and Continuous Delivery (CI/CD), Test Driven
-Development (TDD), CQL, Markdown, ![image](https://www.python.org/)
-
-
+Development (TDD), CQL, Markdown,[![icons8-python-48](https://github.com/user-attachments/assets/43ed0347-ee2b-471d-97b8-0481dc51f77f)](https://www.python.org/)
 
 ## Connect with Me
 
